@@ -1,0 +1,4 @@
+[x] vericare se cerchio colpito o no
+[x] spostamento randomico del cerchio
+[] spostamento nei confini della finestra
+[] punteggio
